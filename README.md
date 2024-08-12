@@ -3,7 +3,7 @@ I prefer to code in Python, Rust, C++ and TypeScript.
 * Kaggle: https://kaggle.com/confirm
 * Github: https://git.io/s
 * Personal website: https://ho.lc
-* AI Jansou (Mahjong AI competition) https://mjai.app
+* RiichiLab (Mahjong AI competition) https://mjai.app
 
 SNS:
 
